@@ -6,7 +6,7 @@
 -- Generation Time: Feb 15, 2020 at 09:02 AM
 -- Server version: 5.6.38
 -- PHP Version: 7.1.12
-
+SET FOREIGN_KEY_CHECKS = 0;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
